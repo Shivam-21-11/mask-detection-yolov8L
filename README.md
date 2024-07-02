@@ -39,6 +39,12 @@ You can run the notebook and all the necessary files will be created/downloaded.
 
 [output.webM](https://github.com/Shivam-21-11/mask-detection-yolov8L/assets/66676220/a8048555-6fc1-42a4-9854-fd02120bbc35)
 
+
+## Acknowledgements
+
+* The dataset is sourced from Kaggle's [Face Mask Detection dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection "Face Mask Detection dataset").
+* The YOLOv8 model is provided by [Ultralytics](https://docs.ultralytics.com/models/yolov8/ "Ultralytics").
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
