@@ -12,6 +12,8 @@ The dataset used for training and validation is sourced from Kaggle's  [Face Mas
 ## Model Architecture
 The YOLOv8l model from Ultralytics is utilized for its efficient object detection capabilities. Instead of training from scratch, a pretrained model from [Kaggle's model repository](https://www.kaggle.com/models/shivam2111/yolov8l-mask-detection/PyTorch/yolov8l-v1.0/1/ "Kaggle's model repository") is employed, which has been fine-tuned for face mask detection.
 
+**To know more about fine tuning process you can look at [fine-tuning process](https://www.kaggle.com/code/shivam2111/face-mask-detection-yolov8l)**
+
 ## Installation and Setup
 ### Requirements
 Ensure the following dependencies are installed:
