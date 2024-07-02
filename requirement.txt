@@ -1,0 +1,10 @@
+matplotlib==3.9.0
+torch==2.2.2
+kaggle==1.6.14
+kagglehub==0.2.7
+ultralytics==8.2.42
+pandas==2.2.2
+numpy==1.26.4
+PyYAML==6.0.1
+opencv-contrib-python==4.7.0.72
+opencv-python==4.10.0.82
