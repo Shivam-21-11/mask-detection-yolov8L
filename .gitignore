@@ -1,0 +1,9 @@
+*.zip
+*.rar
+*.tar.gz
+*.pt
+runs/
+face-mask-detection/
+dataset/
+outputs/
+*.yaml
