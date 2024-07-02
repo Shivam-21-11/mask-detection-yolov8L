@@ -34,6 +34,11 @@ pip install -r requirements.txt
 ```
 ## Usage
 You can run the notebook and all the necessary files will be created/downloaded.
+
+## Example
+
+https://github.com/Shivam-21-11/mask-detection-yolov8L/assets/66676220/7461af85-0141-4835-a5fc-253295c9ac73
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
