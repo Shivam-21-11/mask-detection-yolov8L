@@ -37,7 +37,7 @@ You can run the notebook and all the necessary files will be created/downloaded.
 
 ## Example
 
-https://imagekit.io/public/share/43bd8tl1l5kl/332e4273020f5ffd53b6eeebfe70ff2828c72c2b67bdb8559e1aaf69b3f2642148758e8a562e796479ba23f5026ed05d88339d285b26b21fd3e39f7569e6be53d055545efc8a510654180de12a87050f
+[output.webM](https://github.com/Shivam-21-11/mask-detection-yolov8L/assets/66676220/a8048555-6fc1-42a4-9854-fd02120bbc35)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
