@@ -25,8 +25,8 @@ Ensure the following dependencies are installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Shivam-21-11/mask-detection-yolov8L.git
+cd mask-detection-yolov8L
 ```
 
 2. Install dependencies:
